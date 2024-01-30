@@ -1,4 +1,4 @@
 # deep-demo
 this is my first repository
 <br>
-Author- Deepanshu Sarswat
+Author- Deepanshu (Galgotias University)
